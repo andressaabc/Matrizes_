@@ -1,0 +1,32 @@
+div {
+    border: 5px;
+    background-color: rgb(211, 240, 178);
+}
+h1 {
+    font-family:'Sigmar', cursive;
+    color: blueviolet;
+}
+h4 {
+    color: green;
+}
+
+body {
+    background-color: rgb(229, 166, 241);
+}
+.matriz {
+    color: rgb(0, 0, 0);
+    display:left ;
+}
+
+
+.matrizr {
+    color: green;
+}
+
+.matriz1 {
+    display: flex;
+    justify-content: center;
+    border-collapse: collapse;
+
+}
+
